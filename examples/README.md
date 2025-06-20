@@ -85,7 +85,7 @@ Tüm örneklerde API key'i değiştirin:
 
 ```python
 # Mevcut
-api_key = "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"
+api_key = "gsk_***"
 
 # Kendi key'inizle değiştirin
 api_key = "your-api-key-here"
